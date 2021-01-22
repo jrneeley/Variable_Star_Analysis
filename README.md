@@ -13,6 +13,8 @@ of the star on the image to help with classification. The user chooses the appro
 and the text file with the list of candidates is automatically updated. 
 
 ## Identification 
+variable_identification.py contains useful functions for the automated detection of potential variable stars, including the calculation of 
+several variability indices. 
 
 ## Simulations
 This repository also contains code to generate simulated variable stars that mimic the properties of your dataset. These simulations are 
