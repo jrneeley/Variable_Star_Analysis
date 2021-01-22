@@ -15,3 +15,10 @@ and the text file with the list of candidates is automatically updated.
 ## Identification 
 
 ## Simulations
+This repository also contains code to generate simulated variable stars that mimic the properties of your dataset. These simulations are 
+used to understand potential bias (such as incompleteness) stemming from the limits of your observations. They are also used to estimate 
+realistic uncertainties on the periods, mean magnitudes, and amplitudes derived for your dataset. 
+
+See the notebook Create_Simulated_stars.ipynb for an example of how to generate a set of simulated variable stars in the galaxy M33. 
+
+Full API to come....
