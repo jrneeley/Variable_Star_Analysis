@@ -2,7 +2,7 @@
 Routines for the identification, classification, and simulation of variable stars. 
 
 
-![Classification example](classification_example.png?raw=true)
+![Classification example](classification_example.png?raw=true "variable_classification.py window")
 
 ## Classification
 
